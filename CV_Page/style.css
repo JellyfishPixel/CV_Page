@@ -1,0 +1,31 @@
+
+    body{
+    background-color: rgb(175, 161, 255);
+    font-family: Arial, sans-serif; 
+    text-align: center; 
+    padding-top: 50px; 
+}
+.my-rectangle { 
+    background: #ffffff;
+    border-radius: 25px;
+    width: 550px;
+    height: 800px;
+    box-shadow: 0 24px 24px rgba(0,0,0,0.15);
+}
+.drop-circle {
+width: 200px;
+      object-fit: fill;     
+      border-radius: 50%;    
+      box-shadow: 0 4px 24px rgba(0,0,0,0.25);
+      display: block;
+      margin: 40px auto;
+}
+
+.my-rectangle2 { 
+    background: #ffffff;
+    margin: 10px auto;
+    border-radius: 25px;
+    width: 550px;
+    height: 0px;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.15);
+}
